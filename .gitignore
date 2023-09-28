@@ -1,0 +1,14 @@
+*.exe
+*.tmp
+*.exe~
+*.zip
+*.rar
+.DS_Store
+*.c
+*.log
+logs
+.idea
+debug
+bin
+.DS_Store
+baidu-query
