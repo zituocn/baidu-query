@@ -2,6 +2,15 @@
 
 baidu 收录检测
 
+### 请使用新版本的baidu收录检测实现：
+
+#### 项目地址：
+
+```sh
+https://github.com/zituocn/rich-api
+```
+
+
 ### 安装
 
 ```sh
